@@ -1,0 +1,34 @@
+_repo: El-Filibusterismo--Continuaci-n-del-Noli-me-t-ngere-_30903
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    - Rizal, Jose
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://www.joserizal.ph/
+    - http://en.wikipedia.org/wiki/José_Rizal
+description: ''
+gutenberg_issued: '2010-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30903'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- Fiction'
+- !lcsh 'Nationalists -- Philippines -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Philippine fiction (Spanish)'
+title: El Filibusterismo (Continuación del Noli me tángere)
+url: http://www.gutenberg.org/ebooks/30903
